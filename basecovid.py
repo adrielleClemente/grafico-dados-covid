@@ -33,7 +33,5 @@ st.plotly_chart(fig, use_container_width=True)
 
 st.caption('Os dados foram obtidos a partir do site: https://github.com/wcota/covid19br')
 
-print(____________________________________________________________________________________)
-
 st.caption('Link para meu github: https://github.com/adrielleClemente/')
 st.caption('Link para meu Linkedin: https://www.linkedin.com/in/adrielleclemente/')
